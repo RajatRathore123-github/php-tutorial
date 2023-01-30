@@ -1,0 +1,17 @@
+// creating variable
+    //$characterName = "RAJAT";
+    //$characterAge = 35;
+    //echo "<h1> Hello ($characterName) </h1>" ;
+    //echo "<p>lorem ipsum</p>";
+    //echo strtolower($characterName) ; // strtoupper, strlen, str_replace, substr($string, 3, 2)
+    //echo 40;
+
+
+
+
+function sayHi($name){
+        echo "Hello $name <br>";
+      }
+
+      sayHi("Rajat");
+      sayHi("Ansh");
